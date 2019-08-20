@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_test_invalid_xml.user1" name="x_test_invalid_xml.user1">3c4f0a07b753330097d13978ee11a9ac</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-08-20 22:19:04</sys_created_on>
+        <sys_id>c54f0a07b753330097d13978ee11a9b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3c4f0a07b753330097d13978ee11a9ac</sys_name>
+        <sys_package display_value="test_invalid_xml" source="x_test_invalid_xml">713f4207b753330097d13978ee11a93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_invalid_xml">713f4207b753330097d13978ee11a93a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c54f0a07b753330097d13978ee11a9b0</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-08-20 22:19:04</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

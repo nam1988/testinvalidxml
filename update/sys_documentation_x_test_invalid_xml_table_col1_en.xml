@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="col1" label="Col1" language="en" table="x_test_invalid_xml_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>col1</element>
+            <help/>
+            <hint/>
+            <label>Col1</label>
+            <language>en</language>
+            <name>x_test_invalid_xml_table</name>
+            <plural>Col1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2019-08-20 22:20:07</sys_created_on>
+            <sys_id>548f8e07b753330097d13978ee11a958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Col1</sys_name>
+            <sys_package display_value="test_invalid_xml" source="x_test_invalid_xml">713f4207b753330097d13978ee11a93a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test_invalid_xml">713f4207b753330097d13978ee11a93a</sys_scope>
+            <sys_update_name>sys_documentation_x_test_invalid_xml_table_col1_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2019-08-20 22:20:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
