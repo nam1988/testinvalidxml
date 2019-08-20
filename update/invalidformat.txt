@@ -1,3 +1,0 @@
-"Import an application from source control that can be modified outside of ServiceNow instance.​
-This use case opens a channel to import hand-edited content into service now instance. 
-An additional sanitization step needs to be performed to protect the instance from invalid application files.​​"

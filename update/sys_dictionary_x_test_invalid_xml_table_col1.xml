@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2019-08-20 22:20:07</sys_created_on>
-        <sys_id>5c8f8e07b753330097d13978ee11a956</sys_id>
+        <sys_id>485ad643b793330097d13978ee11a9b4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Col1</sys_name>
         <sys_package display_value="test_invalid_xml" source="x_test_invalid_xml">713f4207b753330097d13978ee11a93a</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="test_invalid_xml">713f4207b753330097d13978ee11a93a</sys_scope>
         <sys_update_name>sys_dictionary_x_test_invalid_xml_table_col1</sys_update_name>
         <sys_updated_by>maint</sys_updated_by>
-        <sys_updated_on>2019-08-20 22:20:07</sys_updated_on>
+        <sys_updated_on>2019-08-20 23:07:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
